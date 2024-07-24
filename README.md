@@ -17,5 +17,5 @@ environment: {
 }
 
 References:
-1. BMW official Website USA (BMW logo images)
+1. BMW official Website USA (BMW logo images) and info
 2. Top Gear (BMW cars images)
