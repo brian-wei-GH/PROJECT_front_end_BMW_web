@@ -11,9 +11,9 @@ The web can be split into three main parts:
 
 environment: { 
   python:3.12.4,
-  pycharm: 2024,1,3 pro
-  Bootstrap: 5.3.3
-  jQuery: 3.7.1
+  pycharm: 2024,1,3 pro,
+  Bootstrap: 5.3.3,
+  jQuery: 3.7.1,
 }
 
 References:
