@@ -1,6 +1,7 @@
 # PROJECT_front_end_BMW_web
 Front End integration project
 
+
 the project combines HTML, CSS, and JavaScript.
 
 The web can be split into three main parts:
