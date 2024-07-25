@@ -2,7 +2,7 @@
 Front End integration project
 
 
-the project combines HTML, CSS, and JavaScript.
+the project combines HTML, CSS, and JavaScript. (static web design)
 
 The web can be split into three main parts:
 1. The first part uses a 'navbar' to create a navigation header.
